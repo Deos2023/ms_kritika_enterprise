@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className="w-10 h-10 bg-[#8B6B4A] rounded-full flex items-center justify-center text-white font-bold text-lg">
             MS
           </div>
-          <span className="text-xl font-bold">Kritika Enterprises</span>
+          <span className="text-xl font-bold">Kritika Enterprises Aya Center</span>
         </div>
 
         {/* Desktop Menu */}

@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">MS Kritika Enterprises</h3>
+              <h3 className="text-xl font-bold mb-4">MS Kritika Enterprises Aya Center</h3>
               <p className="mb-4">Professional care services in Kolkata since 2010</p>
               <div className="flex space-x-4">
                 <a href="#" className="text-[#FFD700] hover:text-white">
