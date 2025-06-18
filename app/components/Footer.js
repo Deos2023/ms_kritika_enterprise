@@ -78,7 +78,7 @@ const Footer = () => {
 
            
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3685.939696743663!2d88.37392609999999!3d22.5064456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0271d72d505739%3A0x1696328322e50eaf!2sKnight%20Security!5e0!3m2!1sen!2sin!4v1749889533476!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3686.0789333647185!2d88.2981353752984!3d22.501221479542636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027babd85b6143%3A0xffc8d7f9627d343e!2sMs%20Kritika%20Enterprises%20Aya%20Centre!5e0!3m2!1sen!2sin!4v1750249134844!5m2!1sen!2sin"
               width="100%"
               height="300"
               style={{ border: 0 }}
