@@ -88,7 +88,7 @@ const Footer = () => {
             ></iframe>
           </motion.div>
           <div className="border-t border-[#5E4A3A] mt-8 pt-8 text-center text-[#FFD700]">
-            <p>© {new Date().getFullYear()} MS Kritika Enterprises. All rights reserved.<br />
+            <p>© {new Date().getFullYear()} MS Kritika Enterprises Aya Center. All rights reserved.<br />
               Website Developed & Maintained by Digital Exposure Online Services.</p>
           </div>
         </div>
